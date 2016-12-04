@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LampControl</string>
+    <string name="noBluetooth">Sorry, your device does not support bluetooth</string>
+    <string name="bluetooth">Bluetooth</string>
 </resources>
